@@ -140,7 +140,7 @@ nav img{
 .text-home h1{
     color: #e8e8e8;
     font-size: 100px;
-    
+    opacity: 0;
 }
 
 .inner-home{
